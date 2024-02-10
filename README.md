@@ -49,15 +49,6 @@ npm install
 npm start
 ```
 
-Terminal 2: Setting Up Frontend
-```sh
-cd frontend
-npm install
-npm start
-```
-Now, navigate to `localhost:3000` in your browser. 
-The Backend API will be running at `localhost:5000`.
-
 <br>
 
 # Deployment

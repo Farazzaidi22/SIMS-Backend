@@ -5,6 +5,18 @@ const studentSchema = new mongoose.Schema({
         type: String,
         required: true
     },
+    parentName: {
+        type: String,
+        required: true
+    },
+    parentAddress: {
+        type: String,
+        required: true
+    },
+    parentContactNumber: {
+        type: Number,
+        required: true
+    },
     rollNum: {
         type: Number,
         required: true
